@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Isabella Tessier on </title>
+    <link>https://isabellatessier.co.uk/exhibitions/</link>
+    <description>Recent content in Isabella Tessier on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Dec 2022 20:34:59 +0100</lastBuildDate><atom:link href="https://isabellatessier.co.uk/exhibitions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Portal into No Immediate Danger</title>
+      <link>https://isabellatessier.co.uk/exhibitions/a-portal-into-no-immediate-danger/</link>
+      <pubDate>Fri, 09 Dec 2022 20:34:59 +0100</pubDate>
+      
+      <guid>https://isabellatessier.co.uk/exhibitions/a-portal-into-no-immediate-danger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karina/Rita (2021)</title>
+      <link>https://isabellatessier.co.uk/exhibitions/karinarita/</link>
+      <pubDate>Wed, 07 Dec 2022 20:45:37 +0100</pubDate>
+      
+      <guid>https://isabellatessier.co.uk/exhibitions/karinarita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#39;Shadow Puppets&#39; Screening</title>
+      <link>https://isabellatessier.co.uk/exhibitions/shadow-puppets/</link>
+      <pubDate>Thu, 01 Sep 2022 07:56:29 +0100</pubDate>
+      
+      <guid>https://isabellatessier.co.uk/exhibitions/shadow-puppets/</guid>
+      <description>To see the full video click https://vimeo.com/manage/videos/697341968</description>
+    </item>
+    
+    <item>
+      <title>Drawing in the Garden: Research from the Venice Biennale</title>
+      <link>https://isabellatessier.co.uk/exhibitions/venice-biennale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://isabellatessier.co.uk/exhibitions/venice-biennale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
