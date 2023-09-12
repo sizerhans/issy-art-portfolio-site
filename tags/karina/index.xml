@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karina on My New Hugo Site</title>
+    <link>http://example.org/tags/karina/</link>
+    <description>Recent content in Karina on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Dec 2022 20:45:37 +0100</lastBuildDate><atom:link href="http://example.org/tags/karina/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Karina/Rita (2021)</title>
+      <link>http://example.org/exhibitions/karinarita/</link>
+      <pubDate>Wed, 07 Dec 2022 20:45:37 +0100</pubDate>
+      
+      <guid>http://example.org/exhibitions/karinarita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consuming Karina</title>
+      <link>http://example.org/prints/consuming-karina/</link>
+      <pubDate>Sun, 27 Feb 2022 19:28:47 +0100</pubDate>
+      
+      <guid>http://example.org/prints/consuming-karina/</guid>
+      <description>Consuming Karina, Lithograph, 42cm x 29cm, (2022), Edition size 5. One print available to buy, contact issy.tessier@gmail.com for prices.</description>
+    </item>
+    
+    <item>
+      <title>Spinning Top</title>
+      <link>http://example.org/prints/spinning-top/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/prints/spinning-top/</guid>
+      <description>Spinning Top, Lithograph, 38cm x 27.9cm, made at Hole Editions, edition size 8. Three prints available to buy, contact issy.tessier@gmail.com for prices.</description>
+    </item>
+    
+  </channel>
+</rss>

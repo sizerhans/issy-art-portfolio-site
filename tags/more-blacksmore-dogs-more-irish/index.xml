@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>More Blacks,More Dogs, More Irish on My New Hugo Site</title>
+    <link>http://example.org/tags/more-blacksmore-dogs-more-irish/</link>
+    <description>Recent content in More Blacks,More Dogs, More Irish on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Mar 2023 23:56:49 +0100</lastBuildDate><atom:link href="http://example.org/tags/more-blacksmore-dogs-more-irish/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swerve, &#39;More Blacks, More Dogs, More Irish&#39;</title>
+      <link>http://example.org/prints/swerve/</link>
+      <pubDate>Thu, 30 Mar 2023 23:56:49 +0100</pubDate>
+      
+      <guid>http://example.org/prints/swerve/</guid>
+      <description>Swerve, Lithograph, 29cm x 21cm, (2022) made at Hole Editions.</description>
+    </item>
+    
+  </channel>
+</rss>

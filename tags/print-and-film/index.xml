@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Print and Film on My New Hugo Site</title>
+    <link>http://example.org/tags/print-and-film/</link>
+    <description>Recent content in Print and Film on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Feb 2022 19:28:47 +0100</lastBuildDate><atom:link href="http://example.org/tags/print-and-film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Consuming Karina</title>
+      <link>http://example.org/prints/consuming-karina/</link>
+      <pubDate>Sun, 27 Feb 2022 19:28:47 +0100</pubDate>
+      
+      <guid>http://example.org/prints/consuming-karina/</guid>
+      <description>Consuming Karina, Lithograph, 42cm x 29cm, (2022), Edition size 5. One print available to buy, contact issy.tessier@gmail.com for prices.</description>
+    </item>
+    
+    <item>
+      <title>Shadow Fresco</title>
+      <link>http://example.org/prints/shadow-fresco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/prints/shadow-fresco/</guid>
+      <description>Shadow Fresco, Lithograph, 38cm x 49cm, (2022), edition size 6. Four prints available to buy, contact issy.tessier@gmail.com for prices.</description>
+    </item>
+    
+    <item>
+      <title>Still Shadows</title>
+      <link>http://example.org/prints/still-shadows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/prints/still-shadows/</guid>
+      <description>Still Shadows, Lithograph, 38cm x 25cm (2022), unique print.</description>
+    </item>
+    
+  </channel>
+</rss>

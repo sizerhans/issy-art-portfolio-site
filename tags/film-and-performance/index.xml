@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Film and performance on My New Hugo Site</title>
+    <link>http://example.org/tags/film-and-performance/</link>
+    <description>Recent content in Film and performance on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Sep 2022 07:56:29 +0100</lastBuildDate><atom:link href="http://example.org/tags/film-and-performance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#39;Shadow Puppets&#39; Screening</title>
+      <link>http://example.org/exhibitions/shadow-puppets/</link>
+      <pubDate>Thu, 01 Sep 2022 07:56:29 +0100</pubDate>
+      
+      <guid>http://example.org/exhibitions/shadow-puppets/</guid>
+      <description>To see the full video click https://vimeo.com/manage/videos/697341968</description>
+    </item>
+    
+  </channel>
+</rss>
